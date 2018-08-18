@@ -1,0 +1,23 @@
+{
+  "name": "intiguide",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "kim-taewoo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0",
+    "vue-intersect": "^1.1.2",
+    "vuetify": "^1.0.19"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
+  }
+}
